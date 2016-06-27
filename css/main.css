@@ -8,7 +8,7 @@ body {
 }
 
 #title {
-  font-family: "Avenir", sans-serif;
+  font-family: "Open Sans Regular",Helvetica, sans-serif;
   width: 100%;
   padding-top: 5%;
   padding-bottom: 5%;
@@ -87,7 +87,7 @@ i {
   margin-bottom: 1em;
   height: 1em;
   color: #ffffff;
-  font-family: "Avenir", Helvetica, sans-serif;
+  font-family: "Open Sans Regular", Helvetica, sans-serif;
 }
 
 
